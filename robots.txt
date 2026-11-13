@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://urlpluck.zelvori-studio.workers.dev/sitemap.xml
